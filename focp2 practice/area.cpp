@@ -23,7 +23,13 @@ int main()
 
     float rc = 0;
     float l = 0;
-    float b = 0;
+    float b = 0;tanay@fedora:~/focp-2$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
     float s = 0;
 
     cout << "input radius of circle:" << endl;
